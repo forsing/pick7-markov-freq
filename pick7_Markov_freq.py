@@ -279,18 +279,18 @@ RUN:
 [INFO] Loaded 2958 draws from /Users/4c/Desktop/GHQ/data/loto7_4672_k67_loto_2958.csv
 
 --- NEXT LOTO 7/39 PREDICTION: MARKOV ONLY ---
-  08 - 11 - 22 - 26 - 33 - 34 - 38  (joint model score: -25.579002)
+  08 - x - 22 - y - 33 - z - 38  (joint model score: -25.579002)
 
 --- NEXT LOTO 7/39 PREDICTION: MARKOV + FREQUENCY ---
-  08 - 11 - 22 - 23 - 26 - 33 - 34  (join model score: -25.635686)
+  08 - x - 22 - y - 26 - z - 34  (join model score: -25.635686)
 
 ============ LOTO PLUS 7/39 ============
 [INFO] Loaded 1714 draws from /Users/4c/Desktop/GHQ/data/loto7_4672_k67_loto_plus_1714.csv
 
 --- NEXT LOTO PLUS 7/39 PREDICTION: MARKOV ONLY ---
-  07 - 09 - 14 - 23 - 26 - 27 - 38  (joint model score: -25.436365)
+  07 - x - 14 - y - 26 - z - 38  (joint model score: -25.436365)
 
 --- NEXT LOTO PLUS 7/39 PREDICTION: MARKOV + FREQUENCY ---
-  07 - 08 - 11 - 23 - 27 - 35 - 37  (joint model score: -25.504187)
+  07 - x - 11 - y - 27 - z - 37  (joint model score: -25.504187)
 
 """
